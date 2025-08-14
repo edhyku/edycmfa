@@ -102,3 +102,13 @@ payload:
   - DOMAIN-SUFFIX,ig.me
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,instagram.c10r.facebook.com
+  - DOMAIN-SUFFIX,igcdn.com
+  - DOMAIN-SUFFIX,instagramstatic-a.akamaihd.net
+  - DOMAIN-SUFFIX,scontent.cdninstagram.com
+  - DOMAIN-SUFFIX,scontent.xx.fbcdn.net
+  - DOMAIN-SUFFIX,edge-chat.instagram.com
+  - DOMAIN-SUFFIX,graph.instagram.com
+  - DOMAIN-SUFFIX,i.instagram.com
+  - DOMAIN-SUFFIX,b.i.instagram.com
+  - DOMAIN-SUFFIX,help.instagram.com
+  - DOMAIN-SUFFIX,www.instagram.com

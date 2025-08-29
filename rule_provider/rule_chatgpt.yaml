@@ -32,3 +32,7 @@ payload:
   - IP-CIDR,13.66.11.96/28
   - IP-CIDR,23.98.142.176/28
   - IP-CIDR,40.84.180.224/28
+# > Klik Indomaret
+  - "DOMAIN-SUFFIX,klikindomaret.com"
+  - "DOMAIN-SUFFIX,api-klik.klikindomaret.com"
+  - "DOMAIN-SUFFIX,virtual-idm-api.klikindomaret.com"

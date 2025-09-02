@@ -1,7 +1,6 @@
 payload:
   # Mulai baris ini kebawah bisa di edit/hapus
   - DOMAIN-SUFFIX,iq.com
-  - DOMAIN-SUFFIX,cloudfront.net
   # > Tencent Video
   - DOMAIN-SUFFIX,v.smtcdns.com
   - DOMAIN-SUFFIX,vv.video.qq.com

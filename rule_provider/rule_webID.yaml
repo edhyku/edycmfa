@@ -1,5 +1,5 @@
 payload:
-# Mulai baris ini kebawah bisa di edit/hapus
+# RCTI Vision Plus
   - DOMAIN-SUFFIX,cloudfront.net
 # > Klik Indomaret
   - DOMAIN-SUFFIX,klikindomaret.com

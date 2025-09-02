@@ -1,0 +1,7 @@
+payload:
+# Mulai baris ini kebawah bisa di edit/hapus
+  - DOMAIN-SUFFIX,cloudfront.net
+# > Klik Indomaret
+  - DOMAIN-SUFFIX,klikindomaret.com
+  - DOMAIN-SUFFIX,api-klik.klikindomaret.com
+  - DOMAIN-SUFFIX,virtual-idm-api.klikindomaret.com

@@ -5,3 +5,7 @@ payload:
   - DOMAIN-SUFFIX,klikindomaret.com
   - DOMAIN-SUFFIX,api-klik.klikindomaret.com
   - DOMAIN-SUFFIX,virtual-idm-api.klikindomaret.com
+# > Klik Shopee
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,shopee.sg

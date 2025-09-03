@@ -118,3 +118,55 @@ payload:
 - "+.dbs.com"
 - "+.krombank.com"
 - "+.seabank.co.id"
+
+# > Bank Indonesia (umum) 
+# BCA
+- DOMAIN-SUFFIX,bca.co.id
+- DOMAIN-SUFFIX,klikbca.com
+- DOMAIN-SUFFIX,mbanktrans.klikbca.com
+# BRI
+- DOMAIN-SUFFIX,bri.co.id
+- DOMAIN-SUFFIX,brimo.bri.co.id
+- DOMAIN-SUFFIX,ib.bri.co.id
+
+# Mandiri
+- DOMAIN-SUFFIX,bankmandiri.co.id
+- DOMAIN-SUFFIX,livin.mandiri.co.id
+
+# BNI
+- DOMAIN-SUFFIX,bni.co.id
+- DOMAIN-SUFFIX,ibank.bni.co.id
+
+# BTN
+- DOMAIN-SUFFIX,btn.co.id
+
+# Danamon
+- DOMAIN-SUFFIX,danamon.co.id
+
+# Permata
+- DOMAIN-SUFFIX,permatabank.com
+
+# CIMB Niaga
+- DOMAIN-SUFFIX,cimbniaga.com
+
+# UOB Indonesia
+- DOMAIN-SUFFIX,uob.co.id
+
+# OCBC NISP
+- DOMAIN-SUFFIX,ocbcnisp.com
+
+# HSBC Indonesia
+- DOMAIN-SUFFIX,hsbc.co.id
+
+# Maybank
+- DOMAIN-SUFFIX,maybank.co.id
+
+# Panin Bank
+- DOMAIN-SUFFIX,panin.co.id
+
+# SeaBank
+- DOMAIN-SUFFIX,seabank.co.id
+- DOMAIN-SUFFIX,seabank.id
+
+# Bank Syariah Indonesia (BSI)
+- DOMAIN-SUFFIX,bankbsi.co.id

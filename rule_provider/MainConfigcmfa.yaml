@@ -1,0 +1,155 @@
+---
+port: 7890
+socks-port: 7891
+redir-port: 9797
+mixed-port: 7893
+tproxy-port: 9898
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+  - 1.1.1.1
+  default-nameserver:
+  - 8.8.8.8
+  proxy-server-nameserver:
+  - 112.215.198.248 #XL
+  - 112.215.198.254 #XL
+  - 112.215.203.246 #XL
+  - 112.215.203.247 #XL
+  - 112.215.203.248 #XL
+  - 112.215.203.254 #XL
+  respect-rules: true
+proxies:
+proxy-groups:
+- name: "MATCH"
+  type: select
+  disable-udp: false
+  proxies:
+  - FALLBACK EDU
+  - FALLBACK LINE
+  - FALLBACK TOKTOK
+  - LB EDU
+  - LB LINE
+  - URLTEST EDU
+  - URLTEST LINE
+  - URLTEST TOKTOK
+- name: PROXY 
+  type: select
+  use:
+  - EDU
+  - LINE
+  - TOKTOK
+- name: LB EDU
+  type: load-balance
+  strategy: round-robin
+  use:
+  - EDU
+- name: LB LINE
+  type: load-balance
+  strategy: round-robin
+  use:
+  - LINE
+- name: URLTEST EDU
+  type: url-test
+  use:
+  - EDU
+- name: URLTEST LINE
+  type: url-test
+  use:
+  - LINE
+- name: URLTEST TOKTOK
+  type: url-test
+  use:
+  - TOKTOK
+- name: FALLBACK EDU
+  type: fallback
+  use:
+  - EDU
+- name: FALLBACK LINE
+  type: fallback
+  use:
+  - LINE
+- name: FALLBACK TOKTOK
+  type: fallback
+  use:
+  - TOKTOK  
+proxy-providers:
+  EDU:
+    type: http
+    url: "https://raw.githubusercontent.com/oranglemah97/umum/refs/heads/main/edu.txt"
+    path: "./proxy_provider/EDU.yaml"  # cache lokal (opsional tapi disarankan)
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+  LINE:
+    type: http
+    url: "https://raw.githubusercontent.com/oranglemah97/umum/refs/heads/main/line.txt"
+    path: "./proxy_provider/LINE.yaml"  # cache lokal (opsional tapi disarankan)
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+  TOKTOK:
+    type: http
+    url: "https://raw.githubusercontent.com/oranglemah97/umum/refs/heads/main/tiktok.txt"
+    path: "./proxy_provider/TOKTOK.yaml"  # cache lokal (opsional tapi disarankan)
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+rules:
+- MATCH,PROXY,LOAD-BALANCE ID,LOAD-BALANCE SG,URLTEST ID,URLTEST SG,FALLBACK
+external-ui: ./dashboard 
+external-ui-url: "https://github.com/Zephyruso/zashboard/archive/gh-pages.zip"
+keep-alive-interval: 15
+keep-alive-idle: 600
+geodata-loader: memconservative
+tcp-concurrent: true
+global-client-fingerprint: chrome
+geox-url: {}
+sniffer:
+  enable: true
+  override-destination: true
+  sniff:
+    QUIC:
+      ports:
+      - 443
+    TLS:
+      ports:
+      - 443
+      - 8443
+    HTTP:
+      ports:
+      - 80
+      - 8080-8880
+      override-destination: true
+  force-domain:
+  - "+.netflix.com"
+  - "+.nflxvideo.net"
+  - "+.amazonaws.com"
+  - "+.media.dssott.com"
+  skip-domain:
+  - "+.apple.com"
+  - Mijia Cloud
+  - dlg.io.mi.com
+  - "+.oray.com"
+  - "+.sunlogin.net"
+  - "+.push.apple.com"
+  force-dns-mapping: true
+  parse-pure-ip: true

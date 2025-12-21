@@ -1499,9 +1499,34 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 1 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="PremierSports1.mn@SD" tvg-logo="https://i.imgur.com/t5qCejI.png" group-title="Sports",Premier Sports 1 (480p)
+http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 2 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.mn@SD" tvg-logo="https://i.imgur.com/eMNWhDq.png" group-title="Sports",Premier Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.postimg.cc/W3xJxXvG/premiersports2.png" group-title="Sports",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 3 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 4 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="PremierSports4.mn@SD" tvg-logo="https://i.imgur.com/XHBJ7UB.png" group-title="Sports",Premier Sports 4 (480p)
+http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Premier Sports 5 (720p) [Geo-blocked]
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-id="PremierSports5.mn@SD" tvg-logo="https://i.imgur.com/LkIe9gR.png" group-title="Sports",Premier Sports 5 (480p)
+http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports",Star Sports Select 1 HD (1080p)
+http://87.255.35.150:18893
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 HD (1080p)
+http://87.255.35.150:18952
+
+
 Sea games
-
-
 
 #EXTINF:-1 group-logo="" group-title="VIP SEA GAMES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScikJ7rQK-UtgNlL3cVS_0CT45_O-OJhCIAg&usqp=CAU",SEA GAMES 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey

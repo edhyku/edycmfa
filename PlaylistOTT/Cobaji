@@ -1,0 +1,9 @@
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions5.jpg" group-title="SPORTS",CHAMPIONS TV 5
+#https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
+#https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash

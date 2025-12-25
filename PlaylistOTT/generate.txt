@@ -1,0 +1,1735 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zM4Kt1TD/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Omag-Mt San Giovanni In Marignano - Megabox Ondulati Del Savio Vallefoglia | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KIy4RDnl/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cucine Lube Civitanova - Gas Sales Bluenergy Piacenza | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Gor7njpJ/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Igor Gorgonzola Novara - Bergamo | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PrGvtlI7/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Bartoccini-Mc Restauri Perugia - Cbf Balducci Hr Macerata | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wA5OdIMb/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Honda Cuneo Granda Volley - Wash4green Monviso Volley | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4bWfSlCv/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Rana Verona - Yuasa Battery Grottazzolina | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T2tOxKUw/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Eurotek Laica Uyba - Reale Mutua Fenera Chieri 76 | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i1mrIyEh/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cisterna Volley - Sir Susa Scai Perugia | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/p2IRS3MM/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Allianz Milano - Sonepar Padova | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EO8D5Ta4/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Vero Volley Monza - Itas Trentino | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hEZuKO1Q/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Il Bisonte Firenze - Savino Del Bene Scandicci | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DMwmQ83h/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Valsa Group Modena - MA Acqua S.Bernardo Cuneo | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vvYA6uzu/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Suntory Sunbirds Osaka - Osaka Bluteon | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2IPKRp4J/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Pfu Bluecats Ishikawa Kahoku - Osaka Marvelous | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R4U8UFXd/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Kurobe Aqua Fairies - Aranmare Yamagata | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3SbWyRnX/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Queenseis Kariya - Denso Airybees | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tg8HSB6q/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Victorina Himeji - Nec Red Rockets Kawasaki | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k1UGCe3D/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Astemo Rivale Ibaraki - Toray Arrows Shiga | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L9w66cY9/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Saga Hisamitsu Springs - Okayama Seagulls | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IkOXx73w/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Jtekt Stings Aichi - Hiroshima Thunders | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1d/HUB_Premier_1.png/revision/latest/scale-to-width-down/190?cb=20240218063504&path-prefix=vi",Hub Premier 1
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier1/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/HUB_Premier_2.png/revision/latest?cb=20240218063623&path-prefix=vi",Hub Premier 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier12/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-name="Hub Premier 2" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/HUB_Premier_2.png/revision/latest?cb=20240218063623&path-prefix=vi",Hub Premier 2 UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier2_4K/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png",Hub Premier 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier3/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624656%27&EntityType=%27Item%27&EntityId=%27572423%27&Width=1920&Height=1080",Hub Premier 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier4/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624630%27&EntityType=%27Item%27&EntityId=%27572420%27&Width=1920&Height=1080",Hub Premier 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier5/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/39/HUB_Premier_6.png/revision/latest?cb=20240218064249&path-prefix=vi",Hub Premier 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier6/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fb/HUB_Premier_7.png/revision/latest?cb=20240218064316&path-prefix=vi",Hub Premier 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier7/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="VIP HUB PREMIER" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/HUB_Premier_8.png/revision/latest?cb=20240218064635&path-prefix=vi",Hub Premier 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier8/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png" group-title="VIP HUB SPORTS",HUB SPORTS 7A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier9/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042510381850_84.png" group-title="VIP HUB SPORTS",HUB SPORTS 8A
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier10/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+#EXTINF:-1 tvg-id="HubSports1HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="VIP HUB SPORTS",Hub Sports 1 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports1HDnew1/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+#EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m85hz61655810471.png" group-title="VIP HUB SPORTS",Hub Sports 2 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports2HD/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+#EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" group-title="VIP HUB SPORTS",Hub Sports 3 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports3HDNEW/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+#EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://onlinetvplayer.com/images/logos/nzlrexxz.png" group-title="VIP HUB SPORTS",Hub Sports 4 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports4HDnew/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qtvid.pw/glogo/hub3.png" group-title="VIP HUB SPORTS",Hub Sports 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports5HD/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
+#EXTINF:-1 tvg-id="HubSports6HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://epg.pw/media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="VIP HUB SPORTS",Hub Sports 6 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports6/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+#EXTINF:-1 tvg-id="HubSports7HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png" group-title="VIP HUB SPORTS",Hub Sports 7 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports7/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
+#EXTINF:-1 tvg-id="HubSports8HD" tvg-name="Hub Sports 8 HD" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042510381850_84.png" group-title="VIP HUB SPORTS",Hub Sports 8 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubSports8/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
+#EXTINF:-1 tvg-id="beINSportsHD" tvg-name="beIN Sports HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="VIP HUB SPORTS",beIN Sports 1 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/BeINSportsHD/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="VIP HUB SPORTS",beIN Sports 2 HD
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSportsHD2/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="VIP HUB SPORTS",beIN Sports 3
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSports3NEW/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
+#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="VIP HUB SPORTS",beIN Sports 4
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSports4/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
+#EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="VIP HUB SPORTS",beIN Sports 5
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSports5/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-name="SPOTV" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="VIP HUB SPORTS",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/SPOTVNEW/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#EXTINF:-1 tvg-name="Hub Premier 2" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015" group-title="VIP HUB SPORTS",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
+http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/SPOTV2NEW/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY2NzYwNDEsImV4cCI6MTc2NjY4NTA0MSwiaXAiOiIxOTUuMzUuNjIuMjkiLCJ1YSI6IlRXOTZhV3hzWVM4MUxqQSIsImlzcyI6InF0dl9zZXJ2aWNlIn0.pvtfEvE1gS5U8l7GWqZkC8ohCtRyKmOebP2rWIucBsA
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa97b3bd1e64a4aa5eb9b42a7da036e:6d6f02aada98526dbf8191f70b0bff6b
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7444d9d4f4c441e4a9636b4a06822d1e:95e1b9d523beca239ff7c5e74df5f652
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab3236dbe1be474983feeaddc16be232:1a9c9159b431050742eabe21e37d12af
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b329a17ccab74793895b2302b1e8d9dc:d5bab2e51f8597031fe497f6c00addf5
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4648ad8290a410a85781044307672ae:78bcd2f197a761ea3a885d13971d6aa9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3ebd4b085804891988897c19ec04d9f:7fb1cd86d4fcf86942e0b0cab62c82db
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaefa438407c4e39be6944fb82b952df:9fa8872f2a8d4d9395c40802527f84ac
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad0942337db4c7e910cca2680cbae89:f48adcc739a34ac96a4848ad0bfba6cf
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05e817347131436ab754a7367ab7cbf4:d50056adfc6ee86e7dfa2ccf0b8b9872
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5ae9e1d0b554bc4b8021295f14338a0:ea2edb22dd0f9dc530db7573f6480e9c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c7890082be941669ddfb1096b41ee10:e29c76bd9d4be6433ea3a30af82d7de6
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bfc3a60371f47dfbf91589716bc4976:c4da05d94f2ee2c073cb093ab07d1215
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07ee8c54c2346b9a55658ba2253e1bb:2afdbfa34b08414399fb75562313a31e
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d397ab72f1e44b3abea34e879511cdad:e4a449c98410d136b21ddef7f58c5a6d
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a949912200ee45efb2f30d3260eb4eb1:d9ea6196758f70ad84123906b5fa218c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8411ae48e2d940089011964dd57a4a39:b20405dd1280c2c999d2e630a1f54187
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3990d086ffa1431897ec0df4b62b7a9c:f132946dc762434007bcf0abe4df9064
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d5c64d3c8f464ea33d4ddee66ee13c:e515502bedb70262ea62e87d48e24f9c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c5e648fc2a64499a9f5c112dc66a9c2:5fba156eab1ed43bbe1ca86018145e9d
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cfb0befbe3e463b98b9e76e24be8111:6618e3ba4af28955d3312ac9f2ba03e1
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
+
+#EXTINF:-1,ZZZ  Tidak ada event LIVE/JADWAL EVENT yang tersedia
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-3kGaolm-pfFH9TIaWduIvgoh-gTbhTFWQ&usqp=CAU" group-title="LIVE BOLA", 【KSA Division 1】Al-Jandal VS Al-Adalah
+https://play.live8818.com/nami/sd-6MvXbwGD6swULUgpdZ.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-3kGaolm-pfFH9TIaWduIvgoh-gTbhTFWQ&usqp=CAU" group-title="LIVE BOLA", 【ETH Premier League】Saint George SC VS Ethiopia Nigd Bank
+https://play.live8818.com/nami/sd-6MvYMCRHxABVu77STM.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-3kGaolm-pfFH9TIaWduIvgoh-gTbhTFWQ&usqp=CAU" group-title="LIVE BOLA", 【KSA Professional League】Al-Fayha VS Al Hazem
+https://play.live8818.com/nami/sd-6MvXc73vzeyJ8WXNQ3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqw_J5sEUt-jvYZV-n_7PqUd4lfJTa75TEg&usqp=CAU" group-title="LIVE BASKET", 【VTB-League】Parma Perm VS Enisey
+https://play.live8818.com/nami/sd-6wWnJKhzfrw9J88GJo.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOky2vDsALsBzmpDKBd3Gd-R14vmUaOC7JWg&usqp=CAU" group-title="LIVE LAINNYA", 【Qatar QBL】Al Sadd VS Al Gharafa
+https://play.live8818.com/nami/sd-6wWiaJb477KcWGEx8b.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOky2vDsALsBzmpDKBd3Gd-R14vmUaOC7JWg&usqp=CAU" group-title="LIVE LAINNYA", 【EGY LC】Haras El Hodood VS Al Masry
+https://play.live8818.com/nami/sd-6MvXrS22o1EESXXed1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOky2vDsALsBzmpDKBd3Gd-R14vmUaOC7JWg&usqp=CAU" group-title="LIVE LAINNYA", 【QAT Reserve League】Al-Duhail SC U23 VS Qatar SC Doha U23
+https://play.live8818.com/nami/sd-6MvZ6ZyiF1EtMHqbUf.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296468&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113256-gennlyjeyhrwwzis.png" group-title="JADWAL VIP SETANTA",📅 Manchester United - Newcastle - 27-12 03:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296469&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113344-i47uwktiuvcmgies.png" group-title="JADWAL VIP SETANTA",📅 Nottingham - Manchester City - 27-12 19:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296471&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113436-7yvdu98odazp8x85.png" group-title="JADWAL VIP SETANTA",📅 Brentford - Bournemouth - 27-12 22:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296472&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113507-wuhywpk1sbcufzbg.png" group-title="JADWAL VIP SETANTA",📅 Burnley - Everton - 27-12 22:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296474&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113539-quryamqysl2464jp.png" group-title="JADWAL VIP SETANTA",📅 West Ham - Fulham - 27-12 22:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296470&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113410-hm6viz7jdomwr4tg.png" group-title="JADWAL VIP SETANTA",📅 Arsenal - Brighton - 27-12 22:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296473&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113523-dszmgmpr1ezqygst.png" group-title="JADWAL VIP SETANTA",📅 Liverpool - Wolves - 27-12 22:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296475&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113611-ahogzzbadk7ixnuu.png" group-title="JADWAL VIP SETANTA",📅 Chelsea - Aston Villa - 28-12 00:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296476&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113648-l2jra7c5tvsjxjwh.png" group-title="JADWAL VIP SETANTA",📅 Sunderland - Leeds - 28-12 21:00 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296477&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113723-wnewulljdlzuihmt.png" group-title="JADWAL VIP SETANTA",📅 Crystal Palace - Tottenham - 28-12 23:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296478&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113753-icgzez4dm42kam4g.png" group-title="JADWAL VIP SETANTA",📅 Burnley - Newcastle - 31-12 02:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=296481&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2025/12/19113909-qzf6fmm26r5x80ra.png" group-title="JADWAL VIP SETANTA",📅 West Ham - Brighton - 31-12 02:30 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FANGOLA_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2Fzimbabwe-logo_200X200.png" ch-number="92",Angola vs Zimbabwe - Group Stage (2025-12-26 19:18:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FEGYPT_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FSOUTH__AFRICA_TEAM_LOGO_INDONESIA_200X200.png" ch-number="92",Egypt vs South Africa - Group Stage (2025-12-26 21:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FZAMBIA_TEAM_LOGO_INDONESIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FCOMOROS_TEAM_LOGO_AUSTRALIA_200X200.png" ch-number="92",Zambia vs Comoros - Group Stage (2025-12-27 00:18:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FMOROCCO_TEAM_LOGO_NEW_ZEALAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FMALI_TEAM_LOGO_THAILAND_200X200.png" ch-number="92",Morocco vs Mali - Group Stage (2025-12-27 02:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FBENIN_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FBOTSWANA_TEAM_LOGO_HONG_KONG_200X200.png" ch-number="92",Benin vs Botswana - Group Stage (2025-12-27 19:18:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FSENEGAL_TEAM_LOGO_NEW_ZEALAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FDR_CONGO_TEAM_LOGO_SINGAPORE_200X200.png" ch-number="92",Senegal vs DR Congo - Group Stage (2025-12-27 21:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FUGANDA_TEAM_LOGO_THAILAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FTANZANIA_TEAM_LOGO_THAILAND_200X200.png" ch-number="92",Uganda vs Tanzania - Group Stage (2025-12-28 00:18:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FNIGERIA_TEAM_LOGO_NEW_ZEALAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FTUNISIA_TEAM_LOGO_THAILAND_200X200.png" ch-number="92",Nigeria vs Tunisia - Group Stage (2025-12-28 02:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FGABON_TEAM_LOGO_PHILIPPINES_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2Fmozambique-logo_200X200.png" ch-number="92",Gabon vs Mozambique - Group Stage (2025-12-28 19:18:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FEQUATORIAL_GUINEA_TEAM_LOGO_THAILAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FSUDAN_TEAM_LOGO_SINGAPORE_200X200.png" ch-number="92",Equatorial Guinea vs Sudan - Group Stage (2025-12-28 21:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FALGERIA_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FBURKINA_FASO_TEAM_LOGO_INDONESIA_200X200.png" ch-number="92",Algeria vs Burkina Faso - Group Stage (2025-12-29 00:18:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FIVORY_COAST_TEAM_LOGO_THAILAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FCAMEROON_TEAM_LOGO_MALAYSIA_200X200.png" ch-number="92",Ivory Coast vs Cameroon - Group Stage (2025-12-29 02:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FANGOLA_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FEGYPT_TEAM_LOGO_AUSTRALIA_200X200.png" ch-number="92",Angola vs Egypt - Group Stage (2025-12-29 22:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FZAMBIA_TEAM_LOGO_INDONESIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FMOROCCO_TEAM_LOGO_NEW_ZEALAND_200X200.png" ch-number="92",Zambia vs Morocco - Group Stage (2025-12-30 01:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FUGANDA_TEAM_LOGO_THAILAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FNIGERIA_TEAM_LOGO_NEW_ZEALAND_200X200.png" ch-number="92",Uganda vs Nigeria - Group Stage (2025-12-30 22:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FBENIN_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FSENEGAL_TEAM_LOGO_NEW_ZEALAND_200X200.png" ch-number="92",Benin vs Senegal - Group Stage (2025-12-31 01:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FEQUATORIAL_GUINEA_TEAM_LOGO_THAILAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FALGERIA_TEAM_LOGO_AUSTRALIA_200X200.png" ch-number="92",Equatorial Guinea vs Algeria - Group Stage (2025-12-31 22:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FGABON_TEAM_LOGO_PHILIPPINES_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FIVORY_COAST_TEAM_LOGO_THAILAND_200X200.png" ch-number="92",Gabon vs Ivory Coast - Group Stage (2026-01-01 01:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=352043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=352043&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fshow%2F1365_SHOW_IMAGE_HONG_KONG_640X360.jpg&home=&away=" ch-number="92",Award Ceremony (2025-12-28 21:59:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=350631
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=350631&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 3 Session 1 (2025-12-29 18:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=350631
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=350631&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 3 Session 2 (2025-12-30 02:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=350631
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=350631&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 4 Session 1 (2025-12-30 18:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=350631
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=350631&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 4 Session 2 (2025-12-31 02:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=350631
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=350631&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 1 Session 1 (2025-12-27 18:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 1 Session 2 (2025-12-28 02:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 2 Session 1 (2025-12-28 18:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FPLUPL_LEAGUE_POSTER_HONG_KONG_1920X1080.jpg&home=&away=" ch-number="92",Pro Cup Day 2 Session 2 (2025-12-29 02:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2Fzimbabwe-logo_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FSOUTH__AFRICA_TEAM_LOGO_INDONESIA_200X200.png" ch-number="92",Zimbabwe vs South Africa - Group Stage (2025-12-29 22:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FCOMOROS_TEAM_LOGO_AUSTRALIA_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FMALI_TEAM_LOGO_THAILAND_200X200.png" ch-number="92",Comoros vs Mali - Group Stage (2025-12-30 01:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FTANZANIA_TEAM_LOGO_THAILAND_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FTUNISIA_TEAM_LOGO_THAILAND_200X200.png" ch-number="92",Tanzania vs Tunisia - Group Stage (2025-12-30 22:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FBOTSWANA_TEAM_LOGO_HONG_KONG_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FDR_CONGO_TEAM_LOGO_SINGAPORE_200X200.png" ch-number="92",Botswana vs DR Congo - Group Stage (2025-12-31 01:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FSUDAN_TEAM_LOGO_SINGAPORE_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FBURKINA_FASO_TEAM_LOGO_INDONESIA_200X200.png" ch-number="92",Sudan vs Burkina Faso - Group Stage (2025-12-31 22:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOACN_LEAGUE_POSTER_AUSTRALIA_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2Fmozambique-logo_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FCAMEROON_TEAM_LOGO_MALAYSIA_200X200.png" ch-number="92",Mozambique vs Cameroon - Group Stage (2026-01-01 01:48:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=224978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=224978&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLLT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg&home=&away=" ch-number="92",LALIGA EA SPORTS FC FUTURES GROUP STAGE (2025-12-27 16:30:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=316825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=316825&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLLT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg&home=&away=" ch-number="92",LALIGA EA SPORTS FC FUTURES GROUP STAGE (2025-12-27 23:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=316825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=316825&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLLT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg&home=&away=" ch-number="92",LALIGA EA SPORTS FC FUTURES GROUP STAGE (2025-12-28 16:30:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=316825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=316825&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLLT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg&home=&away=" ch-number="92",LALIGA EA SPORTS FC FUTURES QUARTER FINALS (2025-12-29 00:30:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=316825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=316825&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLLT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg&home=&away=" ch-number="92",LALIGA EA SPORTS FC FUTURES SEMIFINALS (2025-12-29 17:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=316825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=316825&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FSOLLT_LEAGUE_POSTER_INDONESIA_1920X1080.jpg&home=&away=" ch-number="92",LALIGA EA SPORTS FC FUTURES FINAL (2025-12-30 00:30:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=316825
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=316825&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Bein Event" group-title="JADWAL EVENT" tvg-logo="http://qtv.my.id/bein/img.png?background=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fleague_logo%2FGOTGL_LEAGUE_POSTER_PHILIPPINES_1920X1080.jpg&home=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FNEW_YORK_GC_TEAM_LOGO_PHILIPPINES_200X200.png&away=https%3A%2F%2Fmediacms01.apac.beiniz.biz%2Fteam_logo%2FATLANTA_DRIVE_GC_TEAM_LOGO_SINGAPORE_200X200.png" ch-number="92",New York Golf Club vs Atlanta Drive Golf Club (2025-12-29 03:00:00 WIB)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://103.127.132.205/bein/?id=117967
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+http://qtv.my.id/bein/manifest.mpd?id=117967&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/index.php?id=19988&type=drmbabi&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="JADWAL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/J3HD0NqlZhZdVSmb9n4q_bsJlVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790745/4bdf24.jpg" ch-number="1", PERSIK Kediri vs PERSIS - BRI Super League
+#https://archertv.my.id/atraksi/index.mpd?id=19988&type=dash&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP|User-Agent=VidioPlayer/2.54.11
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/index.php?id=19988&type=drmbabi&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="JADWAL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/bFgEJrzm_cyBQYn7JH1eoYYUF8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790746/74d904.jpg" ch-number="2", PERSIB vs PSM Makassar - BRI Super League
+#https://archertv.my.id/atraksi/index.mpd?id=19988&type=dash&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP|User-Agent=VidioPlayer/2.54.11
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/index.php?id=19355&type=drmbabi&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="JADWAL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/0mpK5pQjNBvZS1ACoY2szdrwA44=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792895/3d4664.jpg" ch-number="3", Jelang Kick Off - PERSIB vs PSM Makassar - BRI Super League
+#https://archertv.my.id/atraksi/index.mpd?id=19355&type=dash&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP|User-Agent=VidioPlayer/2.54.11
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/index.php?id=19988&type=drmbabi&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="JADWAL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/uqL_O_cwqz5DPfKqk_IX7bzjqZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790747/6fb82c.jpg" ch-number="4", Malut United FC vs Borneo FC Samarinda - BRI Super League
+#https://archertv.my.id/atraksi/index.mpd?id=19988&type=dash&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP|User-Agent=VidioPlayer/2.54.11
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/index.php?id=19354&type=drmbabi&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="JADWAL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/8Wm6aLTZEN3gMF4AMUoU0aJhvTE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790748/e38639.jpg" ch-number="5", PERSEBAYA Surabaya vs PERSIJAP - BRI Super League
+#https://archertv.my.id/atraksi/index.mpd?id=19354&type=dash&token=GzCuTHoDiteSsrlyGaTQzK994WZInVjP|User-Agent=VidioPlayer/2.54.11
+
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/wwwroot/qtv/tv_baru/vidio/bein.php:59) in <b>/www/wwwroot/qtv/tv_baru/vidio/anu.php</b> on line <b>3</b><br />
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zM4Kt1TD/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Omag-Mt San Giovanni In Marignano - Megabox Ondulati Del Savio Vallefoglia | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/KIy4RDnl/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cucine Lube Civitanova - Gas Sales Bluenergy Piacenza | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Gor7njpJ/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Igor Gorgonzola Novara - Bergamo | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/PrGvtlI7/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Bartoccini-Mc Restauri Perugia - Cbf Balducci Hr Macerata | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wA5OdIMb/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Honda Cuneo Granda Volley - Wash4green Monviso Volley | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4bWfSlCv/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Rana Verona - Yuasa Battery Grottazzolina | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T2tOxKUw/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Eurotek Laica Uyba - Reale Mutua Fenera Chieri 76 | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i1mrIyEh/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Cisterna Volley - Sir Susa Scai Perugia | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/p2IRS3MM/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Allianz Milano - Sonepar Padova | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EO8D5Ta4/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Vero Volley Monza - Itas Trentino | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hEZuKO1Q/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Il Bisonte Firenze - Savino Del Bene Scandicci | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DMwmQ83h/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Valsa Group Modena - MA Acqua S.Bernardo Cuneo | Round 13
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/vvYA6uzu/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Suntory Sunbirds Osaka - Osaka Bluteon | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2IPKRp4J/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Pfu Bluecats Ishikawa Kahoku - Osaka Marvelous | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/R4U8UFXd/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Kurobe Aqua Fairies - Aranmare Yamagata | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3SbWyRnX/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Queenseis Kariya - Denso Airybees | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Tg8HSB6q/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Victorina Himeji - Nec Red Rockets Kawasaki | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/k1UGCe3D/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Astemo Rivale Ibaraki - Toray Arrows Shiga | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L9w66cY9/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Saga Hisamitsu Springs - Okayama Seagulls | Round 10-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IkOXx73w/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Jtekt Stings Aichi - Hiroshima Thunders | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/C491cBU4/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Vc Nagano Tridents - Tokyo Great Bears | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/kf5NGNQO/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Wolfdogs Nagoya - Nippon Steel Sakai Blazers | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/HSRcfqHC/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Voreas Hokkaido - Toray Arrows Shizuoka | Round 8-A
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/LRV8wCLK/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Numia Vero Volley Milano - Prosecco Doc A.Carraro Imoco Conegliano | Round 17
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GCztHX2X/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Suntory Sunbirds Osaka - Osaka Bluteon | Round 8-B
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1, Tidak ada event LIVE saat ini
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HIpKBsRGB52fiZehbmI6EG-6Ask=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790927/00a073.jpg" group-title="JADWAL NFL/GOLF/EASL", 08:15 wib 26/12/25 Denver Broncos vs Kansas City Chiefs - NFL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HIpKBsRGB52fiZehbmI6EG-6Ask=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790927/00a073.jpg" group-title="JADWAL NFL/GOLF/EASL", 08:15 wib 26/12/25 Denver Broncos vs Kansas City Chiefs - NFL (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VOc847qpodQe-YrPeppJEsFHIn8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794868/0598a6.jpg" group-title="JADWAL BOLA", 19:30 wib 26/12/25 Angola vs Zimbabwe - TotalEnergies Africa Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VOc847qpodQe-YrPeppJEsFHIn8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794868/0598a6.jpg" group-title="JADWAL BOLA", 19:30 wib 26/12/25 Angola vs Zimbabwe - TotalEnergies Africa Cup of Nations (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8IqMwOyIwvnt-zAO7rcrXBrBOYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794869/d835c3.jpg" group-title="JADWAL BOLA", 22:00 wib 26/12/25 Egypt vs South Africa - TotalEnergies Africa Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8IqMwOyIwvnt-zAO7rcrXBrBOYs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794869/d835c3.jpg" group-title="JADWAL BOLA", 22:00 wib 26/12/25 Egypt vs South Africa - TotalEnergies Africa Cup of Nations (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WoHEDe_aIfa1_rIBZeGkY3pTFvc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790739/c33c59.jpg" group-title="JADWAL BOLA", 00:25 wib 27/12/25 Wrexham vs Sheffield United - EFL Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WoHEDe_aIfa1_rIBZeGkY3pTFvc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790739/c33c59.jpg" group-title="JADWAL BOLA", 00:25 wib 27/12/25 Wrexham vs Sheffield United - EFL Championship (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sPbLH_HU2_qbs2RLRQ3G64csp6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794870/91c6c8.jpg" group-title="JADWAL BOLA", 00:30 wib 27/12/25 Zambia vs Comoros - TotalEnergies Africa Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sPbLH_HU2_qbs2RLRQ3G64csp6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794870/91c6c8.jpg" group-title="JADWAL BOLA", 00:30 wib 27/12/25 Zambia vs Comoros - TotalEnergies Africa Cup of Nations (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hLIPmytYvy7clCYHraMs4cvYboI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792893/595d7c.jpg" group-title="JADWAL BOLA", 02:30 wib 27/12/25 Man United vs Newcastle - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hLIPmytYvy7clCYHraMs4cvYboI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792893/595d7c.jpg" group-title="JADWAL BOLA", 02:30 wib 27/12/25 Man United vs Newcastle - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yr1XesNyMIiMdrpJ7NHToCsrTi4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794871/4ee10a.jpg" group-title="JADWAL BOLA", 03:00 wib 27/12/25 Morocco vs Mali - TotalEnergies Africa Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yr1XesNyMIiMdrpJ7NHToCsrTi4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794871/4ee10a.jpg" group-title="JADWAL BOLA", 03:00 wib 27/12/25 Morocco vs Mali - TotalEnergies Africa Cup of Nations (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sDnqQXab9i8RtWuAS-KMNcMaKi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790742/0c9966.jpg" group-title="JADWAL BOLA", 13:22 wib 27/12/25 Persipura Jayapura vs Persela Lamongan - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sDnqQXab9i8RtWuAS-KMNcMaKi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790742/0c9966.jpg" group-title="JADWAL BOLA", 13:22 wib 27/12/25 Persipura Jayapura vs Persela Lamongan - Pegadaian Championship (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/J3HD0NqlZhZdVSmb9n4q_bsJlVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790745/4bdf24.jpg" group-title="JADWAL BOLA", 15:00 wib 27/12/25 PERSIK Kediri vs PERSIS - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/J3HD0NqlZhZdVSmb9n4q_bsJlVk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790745/4bdf24.jpg" group-title="JADWAL BOLA", 15:00 wib 27/12/25 PERSIK Kediri vs PERSIS - BRI Super League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ctqBEFobXpg6G4GFP3w6IsH5XtM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790743/e1fab2.jpg" group-title="JADWAL BOLA", 15:22 wib 27/12/25 Adhyaksa FC vs Persekat Tegal - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ctqBEFobXpg6G4GFP3w6IsH5XtM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790743/e1fab2.jpg" group-title="JADWAL BOLA", 15:22 wib 27/12/25 Adhyaksa FC vs Persekat Tegal - Pegadaian Championship (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AhqE9rA8zMSIGaAIL_9ZAdEEYOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790691/e847dd.jpg" group-title="JADWAL BOLA", 18:15 wib 27/12/25 Parma vs Fiorentina - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/AhqE9rA8zMSIGaAIL_9ZAdEEYOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790691/e847dd.jpg" group-title="JADWAL BOLA", 18:15 wib 27/12/25 Parma vs Fiorentina - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XqTTAnOHSyDxktqEPtUKacbs-AM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790744/4563fd.jpg" group-title="JADWAL BOLA", 18:22 wib 27/12/25 PSPS Pekanbaru vs Persikad - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XqTTAnOHSyDxktqEPtUKacbs-AM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790744/4563fd.jpg" group-title="JADWAL BOLA", 18:22 wib 27/12/25 PSPS Pekanbaru vs Persikad - Pegadaian Championship (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4nR_BhhHOOQDx7uWo-I_NMXBEns=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4791216/f423fd.jpg" group-title="JADWAL VOLY VBTV", 18:25 wib 27/12/25 Halkbank vs Istanbul Genclik Spor - Turkish Men's Volleyball League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4nR_BhhHOOQDx7uWo-I_NMXBEns=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4791216/f423fd.jpg" group-title="JADWAL VOLY VBTV", 18:25 wib 27/12/25 Halkbank vs Istanbul Genclik Spor - Turkish Men's Volleyball League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bFgEJrzm_cyBQYn7JH1eoYYUF8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790746/74d904.jpg" group-title="JADWAL BOLA", 18:30 wib 27/12/25 PERSIB vs PSM Makassar - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bFgEJrzm_cyBQYn7JH1eoYYUF8Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790746/74d904.jpg" group-title="JADWAL BOLA", 18:30 wib 27/12/25 PERSIB vs PSM Makassar - BRI Super League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0mpK5pQjNBvZS1ACoY2szdrwA44=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792895/3d4664.jpg" group-title="JADWAL BOLA", 18:30 wib 27/12/25 Jelang Kick Off - PERSIB vs PSM Makassar - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0mpK5pQjNBvZS1ACoY2szdrwA44=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792895/3d4664.jpg" group-title="JADWAL BOLA", 18:30 wib 27/12/25 Jelang Kick Off - PERSIB vs PSM Makassar - BRI Super League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Op5kocNUZqMHX5uNmT4hBegnfDE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792894/6b8c2f.jpg" group-title="JADWAL BOLA", 19:00 wib 27/12/25 Nottingham Forest vs Man City - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Op5kocNUZqMHX5uNmT4hBegnfDE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792894/6b8c2f.jpg" group-title="JADWAL BOLA", 19:00 wib 27/12/25 Nottingham Forest vs Man City - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QDtJoyL1zl78c8yFLDtNpLSFNlk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790740/a89f33.jpg" group-title="JADWAL EVENT", 19:25 wib 27/12/25 Hibernian vs Hearts - Scottish Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QDtJoyL1zl78c8yFLDtNpLSFNlk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790740/a89f33.jpg" group-title="JADWAL EVENT", 19:25 wib 27/12/25 Hibernian vs Hearts - Scottish Premiership (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vmkuRtIvm_5KDHlNsQg7kIPPr8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794872/ecad62.jpg" group-title="JADWAL BOLA", 19:30 wib 27/12/25 Benin vs Botswana - TotalEnergies Africa Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vmkuRtIvm_5KDHlNsQg7kIPPr8k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794872/ecad62.jpg" group-title="JADWAL BOLA", 19:30 wib 27/12/25 Benin vs Botswana - TotalEnergies Africa Cup of Nations (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SnyiB41Nb_HSMy0nO-IVKRpTxJc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790692/0d4bf0.jpg" group-title="JADWAL BOLA", 20:45 wib 27/12/25 Lecce vs Como - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SnyiB41Nb_HSMy0nO-IVKRpTxJc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790692/0d4bf0.jpg" group-title="JADWAL BOLA", 20:45 wib 27/12/25 Lecce vs Como - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qPtLfQ7B8KwalccfFs-yw9PiOGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790725/31ece2.jpg" group-title="JADWAL BOLA", 20:45 wib 27/12/25 Torino vs Cagliari - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qPtLfQ7B8KwalccfFs-yw9PiOGA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790725/31ece2.jpg" group-title="JADWAL BOLA", 20:45 wib 27/12/25 Torino vs Cagliari - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pef80T_OhwNWHZ57BZ7Dzm_GZmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792896/a49762.jpg" group-title="JADWAL VOLY VBTV", 20:55 wib 27/12/25 Bursa BBSK vs Galatasaray HDI Sigorta - Turkish Men's Volleyball League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pef80T_OhwNWHZ57BZ7Dzm_GZmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792896/a49762.jpg" group-title="JADWAL VOLY VBTV", 20:55 wib 27/12/25 Bursa BBSK vs Galatasaray HDI Sigorta - Turkish Men's Volleyball League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4jCOxuVpdMDs54RXxodi9_-q4gY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793085/4c10eb.jpg" group-title="JADWAL BOLA", 21:30 wib 27/12/25 Liverpool vs Wolves - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4jCOxuVpdMDs54RXxodi9_-q4gY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793085/4c10eb.jpg" group-title="JADWAL BOLA", 21:30 wib 27/12/25 Liverpool vs Wolves - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eej-rfDYdPHsUi7K3G3MFHfb6jo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792897/6d2943.jpg" group-title="JADWAL BOLA", 21:30 wib 27/12/25 Arsenal vs Brighton - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eej-rfDYdPHsUi7K3G3MFHfb6jo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792897/6d2943.jpg" group-title="JADWAL BOLA", 21:30 wib 27/12/25 Arsenal vs Brighton - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wt3HfCHmmoEeJjOWAxLsaG5Z_ak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792904/8651e0.jpg" group-title="JADWAL BOLA", 21:50 wib 27/12/25 Burnley vs Everton - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/wt3HfCHmmoEeJjOWAxLsaG5Z_ak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792904/8651e0.jpg" group-title="JADWAL BOLA", 21:50 wib 27/12/25 Burnley vs Everton - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LvWDin5QR6XAJLK9H6Htp_ZJprw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792903/4f05ff.jpg" group-title="JADWAL BOLA", 21:50 wib 27/12/25 Brentford vs Bournemouth - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LvWDin5QR6XAJLK9H6Htp_ZJprw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792903/4f05ff.jpg" group-title="JADWAL BOLA", 21:50 wib 27/12/25 Brentford vs Bournemouth - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/v-axK7NELdxt4ZpPvtoyOl2SRik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792905/971073.jpg" group-title="JADWAL BOLA", 21:50 wib 27/12/25 West Ham vs Fulham - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/v-axK7NELdxt4ZpPvtoyOl2SRik=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792905/971073.jpg" group-title="JADWAL BOLA", 21:50 wib 27/12/25 West Ham vs Fulham - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/m88nf1ROb61fM9ULba5CbSTD-yU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790741/4ec188.jpg" group-title="JADWAL BOLA", 21:55 wib 27/12/25 Livingston vs Celtic - Scottish Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/m88nf1ROb61fM9ULba5CbSTD-yU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790741/4ec188.jpg" group-title="JADWAL BOLA", 21:55 wib 27/12/25 Livingston vs Celtic - Scottish Premiership (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zVey_PhpgK6GzHsRoY32YsE-iso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794873/736a2f.jpg" group-title="JADWAL BOLA", 22:00 wib 27/12/25 Senegal vs DR Congo - TotalEnergies Africa Cup of Nations
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zVey_PhpgK6GzHsRoY32YsE-iso=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794873/736a2f.jpg" group-title="JADWAL BOLA", 22:00 wib 27/12/25 Senegal vs DR Congo - TotalEnergies Africa Cup of Nations (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/p5YRNx9tCI8Fn1Ni3aM6Gr-M7Y0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790693/3fcb12.jpg" group-title="JADWAL BOLA", 23:45 wib 27/12/25 Udinese vs Lazio - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/p5YRNx9tCI8Fn1Ni3aM6Gr-M7Y0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790693/3fcb12.jpg" group-title="JADWAL BOLA", 23:45 wib 27/12/25 Udinese vs Lazio - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YqMP_Dy3jeYbw1eLImsrrhYVo24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792898/4372ab.jpg" group-title="JADWAL BOLA", 00:00 wib 28/12/25 (Data Zone) Chelsea vs Aston Villa - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YqMP_Dy3jeYbw1eLImsrrhYVo24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4792898/4372ab.jpg" group-title="JADWAL BOLA", 00:00 wib 28/12/25 (Data Zone) Chelsea vs Aston Villa - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JH1OM-AActOwnbq3iSjVrJsEbFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794128/57e650.jpg" group-title="JADWAL BOLA", 00:00 wib 28/12/25 Chelsea vs Aston Villa - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JH1OM-AActOwnbq3iSjVrJsEbFU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794128/57e650.jpg" group-title="JADWAL BOLA", 00:00 wib 28/12/25 Chelsea vs Aston Villa - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/KekEpDePEJuY1dRZYzcd0fUZtQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790694/969f26.jpg" group-title="JADWAL BOLA", 02:30 wib 28/12/25 Pisa vs Juventus - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/KekEpDePEJuY1dRZYzcd0fUZtQE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790694/969f26.jpg" group-title="JADWAL BOLA", 02:30 wib 28/12/25 Pisa vs Juventus - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vuw9YYR-04HXkkm-U0OUFv5JrL0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794987/c9ee88.jpg" group-title="JADWAL NFL/GOLF/EASL", 08:00 wib 28/12/25 Baltimore Ravens vs Green Bay Packers - NFL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/vuw9YYR-04HXkkm-U0OUFv5JrL0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794987/c9ee88.jpg" group-title="JADWAL NFL/GOLF/EASL", 08:00 wib 28/12/25 Baltimore Ravens vs Green Bay Packers - NFL (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uqL_O_cwqz5DPfKqk_IX7bzjqZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790747/6fb82c.jpg" group-title="JADWAL BOLA", 13:00 wib 28/12/25 Malut United FC vs Borneo FC Samarinda - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uqL_O_cwqz5DPfKqk_IX7bzjqZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790747/6fb82c.jpg" group-title="JADWAL BOLA", 13:00 wib 28/12/25 Malut United FC vs Borneo FC Samarinda - BRI Super League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8Wm6aLTZEN3gMF4AMUoU0aJhvTE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790748/e38639.jpg" group-title="JADWAL BOLA", 15:00 wib 28/12/25 PERSEBAYA Surabaya vs PERSIJAP - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8Wm6aLTZEN3gMF4AMUoU0aJhvTE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790748/e38639.jpg" group-title="JADWAL BOLA", 15:00 wib 28/12/25 PERSEBAYA Surabaya vs PERSIJAP - BRI Super League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/c4V7LUjxsBu7fW0wjv6dwS7MOnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793938/d1af12.jpg" group-title="JADWAL BOLA", 18:30 wib 28/12/25 Milan vs Verona - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/c4V7LUjxsBu7fW0wjv6dwS7MOnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793938/d1af12.jpg" group-title="JADWAL BOLA", 18:30 wib 28/12/25 Milan vs Verona - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Pk85ru0fY7SkWutMLEeKI2_txao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793940/4e672d.jpg" group-title="JADWAL BOLA", 21:00 wib 28/12/25 Cremonese vs Napoli - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Pk85ru0fY7SkWutMLEeKI2_txao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793940/4e672d.jpg" group-title="JADWAL BOLA", 21:00 wib 28/12/25 Cremonese vs Napoli - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/c-66TnDDg5dOxUC3UN94dhi8LoI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794245/d2672c.jpg" group-title="JADWAL BOLA", 21:00 wib 28/12/25 Sunderland vs Leeds United - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/c-66TnDDg5dOxUC3UN94dhi8LoI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794245/d2672c.jpg" group-title="JADWAL BOLA", 21:00 wib 28/12/25 Sunderland vs Leeds United - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6e58ONurrWKm-mqTK7fmV9AWVCg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794246/b14642.jpg" group-title="JADWAL BOLA", 23:00 wib 28/12/25 Crystal Palace vs Tottenham - Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6e58ONurrWKm-mqTK7fmV9AWVCg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4794246/b14642.jpg" group-title="JADWAL BOLA", 23:00 wib 28/12/25 Crystal Palace vs Tottenham - Premier League (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YW-ffhKm8n2DG_d-N2X6amdcTy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790702/5cd126.jpg" group-title="JADWAL BOLA", 23:45 wib 28/12/25 Bologna vs Sassuolo - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YW-ffhKm8n2DG_d-N2X6amdcTy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4790702/5cd126.jpg" group-title="JADWAL BOLA", 23:45 wib 28/12/25 Bologna vs Sassuolo - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WMGv0-Gs3TD8-xSQjtCJzi_DUPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793942/cad0da.jpg" group-title="JADWAL BOLA", 02:45 wib 29/12/25 Atalanta vs Inter - Serie A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WMGv0-Gs3TD8-xSQjtCJzi_DUPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4793942/cad0da.jpg" group-title="JADWAL BOLA", 02:45 wib 29/12/25 Atalanta vs Inter - Serie A (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Bosmp4.mp4
+
+<php
+date_default_timezone_set('Asia/Jakarta');
+
+function getApiKey()
+{
+    $authUrl = 'https://api.vidio.com/auth';
+    $curl = curl_init($authUrl);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($curl, CURLOPT_POST, true);
+    curl_setopt($curl, CURLOPT_HTTPHEADER, [
+        'accept: */*',
+        'accept-language: en-US,en;q=0.9',
+        'origin: https://www.vidio.com',
+        'referer: https://www.vidio.com/',
+        'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'content-length: 0',
+    ]);
+    $response = curl_exec($curl);
+    curl_close($curl);
+
+    $data = json_decode($response, true);
+    return $data['api_key'] ?? null;
+}
+
+function fetchData($apiKey)
+{
+    $url = 'https://api.vidio.com/sections/4840';
+    $curl = curl_init($url);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($curl, CURLOPT_HTTPHEADER, [
+        'X-Api-Key: ' . $apiKey,
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+    ]);
+    $response = curl_exec($curl);
+    curl_close($curl);
+
+    return json_decode($response, true);
+}
+
+function convertToWIB($utcTime)
+{
+    if (!$utcTime) return [
+        'jam_tayang'      => 'N/A',
+        'tanggal_tayang'  => 'N/A'
+    ];
+
+    $dateTime = new DateTime($utcTime, new DateTimeZone('UTC'));
+    $dateTime->setTimezone(new DateTimeZone('Asia/Jakarta'));
+
+    // Bulan singkat versi Indonesia
+    $bulanIndo = [
+        1 => 'Jan',
+        2 => 'Feb',
+        3 => 'Mar',
+        4 => 'Apr',
+        5 => 'Mei',
+        6 => 'Jun',
+        7 => 'Jul',
+        8 => 'Agu',
+        9 => 'Sep',
+        10 => 'Okt',
+        11 => 'Nov',
+        12 => 'Des',
+    ];
+    $bulanNum = (int)$dateTime->format('n');
+    $bulan    = $bulanIndo[$bulanNum] ?? $dateTime->format('M');
+
+    return [
+        // contoh: 21.30 WIB
+        'jam_tayang'      => $dateTime->format('H.i') . ' WIB',
+        // contoh: 12 Des 25
+        'tanggal_tayang'  => $dateTime->format('d') . ' ' . $bulan . ' ' . $dateTime->format('y'),
+    ];
+}
+
+function getEventStatus($startTime, $endTime, $currentTime)
+{
+    // kalau nggak ada start_time, anggap UPCOMING
+    if (!$startTime) return "UPCOMING";
+
+    $startDateTime = new DateTime($startTime, new DateTimeZone('UTC'));
+    $startDateTime->setTimezone(new DateTimeZone('Asia/Jakarta'));
+
+    if ($endTime) {
+        $endDateTime = new DateTime($endTime, new DateTimeZone('UTC'));
+        $endDateTime->setTimezone(new DateTimeZone('Asia/Jakarta'));
+    } else {
+        // fallback: durasi 4 jam
+        $endDateTime = clone $startDateTime;
+        $endDateTime->add(new DateInterval('PT4H'));
+    }
+
+    if ($currentTime >= $startDateTime && $currentTime <= $endDateTime) {
+        return "LIVE";
+    } elseif ($currentTime < $startDateTime) {
+        return "UPCOMING";
+    } else {
+        return "ENDED";
+    }
+}
+
+function hasDRM($streamUrl)
+{
+    return strpos($streamUrl, '/drm/') !== false;
+}
+
+/* ============ DETEKSI KATEGORI OLAHRAGA ============ */
+
+function isVoly($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/voli|volley|volleyball|proliga|avc|fivb/i',
+        $t
+    );
+}
+
+function isBola($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/liga\s*1|liga\s*2|liga\s*3|premier\s*league|epl|la\s*liga|laliga|serie\s*a|bundesliga|uefa|champions\s*league|ucl|europa\s*league|conference\s*league|world\s*cup|piala\s*dunia|timnas|football|soccer|\bfc\b|pegadaian/i',
+        $t
+    );
+}
+
+function isPadel($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/padel/i',
+        $t
+    );
+}
+
+function isATP($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/\batp\b|roland\s*garros|us\s*open|wimbledon|indian\s*wells|miami\s*open|monte\s*carlo|madrid\s*open|rome\s*open|paris\s*masters|shanghai\s*masters|cincinnati\s*open|canadian\s*open/i',
+        $t
+    );
+}
+
+function isTennis($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/\btenis\b|\btennis\b|\bwta\b|\bbjk\b|billie\s*jean\s*king|davis\s*cup/i',
+        $t
+    );
+}
+
+function isBadminton($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/badminton|\bbwf\b|thomas\s*cup|uber\s*cup|sudirman\s*cup|all\s*england|indonesia\s*open|malaysia\s*open|singapore\s*open|china\s*open|japan\s*open|denmark\s*open|victor|sathio|australian\s*open/i',
+        $t
+    );
+}
+
+function isRacing($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/motogp|moto\s*gp|\bsbk\b|superbike|\bformula\s*1\b|\bf1\b|grand\s*prix/i',
+        $t
+    );
+}
+
+function isFighter($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/\bufc\b|\bmma\b|bellator|byon|one\s*championship|fight/i',
+        $t
+    );
+}
+
+function isGolf($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/golf|cme\s*group/i',
+        $t
+    );
+}
+
+function isNFL($title)
+{
+    $t = $title ?? '';
+    return (bool)preg_match(
+        '/\bnfl\b/i',
+        $t
+    );
+}
+
+/* ================== PROSES UTAMA ================== */
+
+// Jalankan proses
+$apiKey = getApiKey();
+if (!$apiKey) {
+    header('Content-Type: text/plain');
+    exit("Gagal mendapatkan x-api-key.");
+}
+
+$data = fetchData($apiKey);
+if (!$data) {
+    header('Content-Type: text/plain');
+    exit("Gagal mendapatkan data.");
+}
+
+header('Content-Type: text/plain');
+$output = "#EXTM3U\n";
+$currentTime = new DateTime('now', new DateTimeZone('Asia/Jakarta'));
+
+// Kumpulan entry per kategori, untuk diurutkan
+$groups = [
+    'JADWAL BOLA'      => [],
+    'JADWAL VOLY'      => [],
+    'JADWAL BADMINTON' => [],
+    'JADWAL GOLF'      => [],
+    'JADWAL RACING'    => [],
+    'JADWAL FIGHTER'   => [],
+    'JADWAL NFL'       => [],
+    'JADWAL TENIS'     => [],
+    'JADWAL ATP'       => [],
+    'JADWAL PADEL'     => [],
+    'JADWAL LAINNYA'   => [],
+];
+
+// berapa hari ke depan yang mau diambil (biar ringan)
+// misal: 3 hari, bisa kamu ubah ke 1 / 2 / 7 dll
+$MAX_DAYS_AHEAD = 3;
+
+if (isset($data['included'])) {
+    foreach ($data['included'] as $content) {
+        if ($content['type'] === 'content' && isset($content['attributes'])) {
+            $attributes = $content['attributes'];
+            $title      = $attributes['title'] ?? 'No Title';
+            $startTime  = $attributes['start_time'] ?? '';
+            $endTime    = $attributes['end_time'] ?? '';
+            $coverUrl   = $attributes['cover_url'] ?? 'https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png';
+            $streamUrl  = $attributes['stream_url'] ?? '';
+
+            $livestreamingId = $content['links']['self']['meta']['livestreaming_id']
+                ?? (($attributes['content_type'] ?? '') === 'livestreaming' ? $attributes['content_id'] : null);
+
+            if (!$livestreamingId) continue;
+
+            $eventStatus = getEventStatus($startTime, $endTime, $currentTime);
+
+            // Hanya JADWAL / UPCOMING (bukan LIVE / ENDED)
+            if ($eventStatus !== "UPCOMING") {
+                continue;
+            }
+
+            // BATASI HANYA MAKSIMAL X HARI KE DEPAN (biar playlist enteng)
+            try {
+                $startDateTimeLocal = new DateTime($startTime, new DateTimeZone('UTC'));
+                $startDateTimeLocal->setTimezone(new DateTimeZone('Asia/Jakarta'));
+                $diffSeconds = $startDateTimeLocal->getTimestamp() - $currentTime->getTimestamp();
+
+                if ($diffSeconds < 0 || $diffSeconds > $MAX_DAYS_AHEAD * 86400) {
+                    // kalau jadwal lebih dari X hari ke depan, skip
+                    continue;
+                }
+            } catch (Exception $e) {
+                // kalau ada error parsing waktu, skip aja
+                continue;
+            }
+
+            // ================== KATEGORI GROUP-TITLE ==================
+            $groupTitle = "JADWAL LAINNYA"; // default
+
+            if (isBadminton($title)) {
+                $groupTitle = "JADWAL BADMINTON";
+            } elseif (isVoly($title)) {
+                $groupTitle = "JADWAL VOLY";
+            } elseif (isPadel($title)) {
+                $groupTitle = "JADWAL PADEL";
+            } elseif (isATP($title)) {
+                $groupTitle = "JADWAL ATP";
+            } elseif (isTennis($title)) {
+                $groupTitle = "JADWAL TENIS";
+            } elseif (isRacing($title)) {
+                $groupTitle = "JADWAL RACING";
+            } elseif (isFighter($title)) {
+                $groupTitle = "JADWAL FIGHTER";
+            } elseif (isGolf($title)) {
+                $groupTitle = "JADWAL GOLF";
+            } elseif (isNFL($title)) {
+                $groupTitle = "JADWAL NFL";
+            } elseif (isBola($title)) {
+                $groupTitle = "JADWAL BOLA";
+            }
+
+            if (!isset($groups[$groupTitle])) {
+                $groups[$groupTitle] = [];
+            }
+            // ==========================================================
+
+            $isDRM = hasDRM($streamUrl);
+
+            // addon untuk KODI
+            $addon = "#KODIPROP:inputstreamaddon=inputstream.adaptive\n";
+
+            // FORMAT:
+            // 🔴JAM 21.30 WIB🔴12 Des 25🔴TIM A VS TIM B🔴
+            $startTimeWIB = convertToWIB($startTime);
+            $jam      = $startTimeWIB['jam_tayang'];
+            $tanggal  = $startTimeWIB['tanggal_tayang'];
+            $display  = "🔴JAM " . $jam . "🔴" . $tanggal . "🔴" . $title . "🔴";
+
+            $infLine = "#EXTINF:-1 group-logo=\"https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png\" tvg-logo=\"{$coverUrl}\" group-title=\"{$groupTitle}\", {$display}\n";
+            $uaLine  = "#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36\n";
+
+            $entry = '';
+            if ($isDRM) {
+                // DRM (utama)
+                $entry .= $infLine;
+                $entry .= $uaLine;
+                $entry .= $addon;
+                $entry .= "#KODIPROP:inputstream.adaptive.manifest_type=dash\n";
+                $entry .= "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n";
+                $entry .= "#KODIPROP:inputstream.adaptive.license_key=cont9hnya=" . $livestreamingId . "&type=drm\n";
+                $entry .= "contohnya=" . $livestreamingId . "&type=dash\n\n";
+            } else {
+                // Non-DRM: HLS
+                $entry .= $infLine;
+                $entry .= $uaLine;
+                $entry .= $addon;
+                $entry .= "#KODIPROP:inputstream.adaptive.manifest_type=hls\n";
+                $entry .= "contohnya={$livestreamingId}\n\n";
+            }
+
+            $groups[$groupTitle][] = $entry;
+        }
+    }
+}
+
+// urutan kategori yang diinginkan
+$order = [
+    'JADWAL BOLA',
+    'JADWAL VOLY',
+    'JADWAL BADMINTON',
+    'JADWAL GOLF',
+    'JADWAL RACING',
+    'JADWAL FIGHTER',
+    'JADWAL NFL',
+    'JADWAL TENIS',
+    'JADWAL ATP',
+    'JADWAL PADEL',
+    'JADWAL LAINNYA',
+];
+
+foreach ($order as $gt) {
+    if (!empty($groups[$gt])) {
+        foreach ($groups[$gt] as $entry) {
+            $output .= $entry;
+        }
+    }
+}
+
+if ($output === "#EXTM3U\n") {
+    $output .= "#EXTINF:-1, Tidak ada data JADWAL/UPCOMING livestreaming yang tersedia\n";
+}
+
+echo $output;
+?>
+

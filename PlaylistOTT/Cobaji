@@ -1,10 +1,7 @@
-EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions5.jpg" group-title="SPORTS",CHAMPIONS TV 5
-#https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
-#https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#EXTHTTP:{"Authorization":" Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY3NDE3NzgsImV4cCI6MTc2Njc4NDk3OCwidXNlciI6ImF1dGhvcml6ZWQiLCJjbGllbnRfaXAiOiIzOC42MC4xOTEuMTY3In0.M-12EHWES9fQkUwfk9GFUjutazxSCH73rjQBsjZeWFQ", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY3NDE3NzgsImV4cCI6MTc2Njc4NDk3OCwidXNlciI6ImF1dGhvcml6ZWQiLCJjbGllbnRfaXAiOiIzOC42MC4xOTEuMTY3In0.M-12EHWES9fQkUwfk9GFUjutazxSCH73rjQBsjZeWFQ"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6ImZkNzJmMTlmYWMwYzQ0MWI4MDg5OTZlYTk5M2QwNmQyIiwia2V5IjoiOGYwYmU2NWI5NzhlZjYwMDYyYjRjN2RhYmIyMjZhMWQiLCJleHAiOjE3NjY3ODQ5Nzh9.wiDkG_5P7WlWLr8oTUO8ZVd7INFgd-d2_XE_QCFAckY
+#EXTINF:-1 group-logo="https://gooo.blog/sports.png" tvg-logo="https://gooo.blog/free.jpg" group-title="STARHUB SPORTS",HUB SPORTS 2
+https://dildo.beww.pl/tempiks.mpd?id=HubSports2HD/output/manifest.mpd&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjY3NDE3NzgsImV4cCI6MTc2Njc4NDk3OCwidXNlciI6ImF1dGhvcml6ZWQiLCJjbGllbnRfaXAiOiIzOC42MC4xOTEuMTY3In0.M-12EHWES9fQkUwfk9GFUjutazxSCH73rjQBsjZeWFQ

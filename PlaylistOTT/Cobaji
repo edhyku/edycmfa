@@ -311,9 +311,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> Sport 🔸🔸🔸
 //========================================================================
 
+
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",ASTRO BADMINTON 1
-http://156.239.254.7:5555/smt.php?id=go_badminton1
 http://zozotv.xyz:8080/live/abemohdz8/zoz139/155.ts
 

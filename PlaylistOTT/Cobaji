@@ -1764,6 +1764,11 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 https://resilient-moonbeam-19e7cc.netlify.app/eyJkYXRhIjoic3RyZWFtX2FjY2VzcyIsInRpbWVzdGFtcCI6MTc2NDUwNjkxOTI5MywiaGFzaCI6Ijg0ODA0OGY3MmY5ZTk3YzhkMWQ0ZjJiYzRkZjc2YTcwMjU3ZWRkOTEzMzJjYzEwYmIyMTk1YjFjOGJiNzA5MzQifQ==/dash-wv/linear/5079/default_primary.mpd
 
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fpHYC7N/TNT2.png" group-title="CHANNEL |  MOTOGP & F1", TNT Sport 2 🇬🇧
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 #EXTINF:-1 tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000" group-title="CHANNEL |  MOTOGP & F1",TNT Sports 2

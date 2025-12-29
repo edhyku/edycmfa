@@ -44,7 +44,6 @@ dummy://hub_premier_7
 #EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 8
 dummy://hub_premier_8
 
-
 ##### ===== ASTRO =====
 
 #EXTINF:-1 group-title="ASTRO",ASTRO PREMIER LEAGUE
@@ -69,3 +68,10 @@ dummy://astro_ba2
 dummy://astro_f
 #EXTINF:-1 group-title="ASTRO",ASTRO SPORTSPLUS
 dummy://astro_ss
+
+##### ===== BRI SUPER LEAGUE =====
+
+#EXTINF:-1 group-title="BRI Super League",INDOSIAR DIGITAL SD
+dummy://indosiar_sd
+#EXTINF:-1 group-title="BRI Super League",INDOSIAR DIGITAL HD
+dummy://indosiar_hd

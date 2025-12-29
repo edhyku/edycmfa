@@ -2,34 +2,44 @@
 
 ##### ===== LIGA INGGRIS =====
 
-
-#EXTINF:-1 group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE
 dummy://astro_pl
-#EXTINF:-1 group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
 dummy://astro_pl2
 
 
 ##### ===== ASTRO =====
 
-#EXTINF:-1 group-title="ASTRO",ASTRO PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO",ASTRO PREMIER LEAGUE
 dummy://astro_pl
-#EXTINF:-1 group-title="ASTRO",ASTRO PREMIER LEAGUE 2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="ASTRO",ASTRO PREMIER LEAGUE 2
 dummy://astro_pl2
-#EXTINF:-1 group-title="ASTRO",ASTRO GRANDSTAND
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="ASTRO",ASTRO GRANDSTAND
 dummy://astro_gs
-#EXTINF:-1 group-title="ASTRO",ASTRO BADMINTON 1
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO",ASTRO BADMINTON 1
 dummy://astro_b1
-#EXTINF:-1 group-title="ASTRO",ASTRO BADMINTON 2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="ASTRO",ASTRO BADMINTON 2
 dummy://astro_b2
-#EXTINF:-1 group-title="ASTRO",ASTRO ARENA
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO",ASTRO ARENA
 dummy://astro_aa1
-#EXTINF:-1 group-title="ASTRO",ASTRO ARENA 2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="ASTRO",ASTRO ARENA 2
 dummy://astro_aa2
-#EXTINF:-1 group-title="ASTRO",BOLA ARENA 1
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="ASTRO",BOLA ARENA 1
 dummy://astro_ba1
-#EXTINF:-1 group-title="ASTRO",BOLA ARENA 2
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="ASTRO",BOLA ARENA 2
 dummy://astro_ba2
-#EXTINF:-1 group-title="ASTRO",ASTRO FOOTBALL
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="ASTRO",ASTRO FOOTBALL
 dummy://astro_f
-#EXTINF:-1 group-title="ASTRO",ASTRO SPORTSPLUS
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="ASTRO",ASTRO SPORTSPLUS
 dummy://astro_ss

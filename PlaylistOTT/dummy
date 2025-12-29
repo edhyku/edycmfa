@@ -2,47 +2,12 @@
 
 ##### ===== LIGA INGGRIS =====
 
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 1
-dummy://hub_premier_1
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 2
-dummy://hub_premier_2
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 3
-dummy://hub_premier_3
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 4
-dummy://hub_premier_4
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 5
-dummy://hub_premier_5
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 6
-dummy://hub_premier_6
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 7
-dummy://hub_premier_7
-#EXTINF:-1 group-title="LIGA INGGRIS",HUB PREMIER 8
-dummy://hub_premier_8
 
 #EXTINF:-1 group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE
 dummy://astro_pl
 #EXTINF:-1 group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE 2
 dummy://astro_pl2
 
-
-##### ===== HUB PREMIER & HUB SPORTS =====
-
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 1
-dummy://hub_premier_1
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 2
-dummy://hub_premier_2
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 3
-dummy://hub_premier_3
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 4
-dummy://hub_premier_4
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 5
-dummy://hub_premier_5
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 6
-dummy://hub_premier_6
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 7
-dummy://hub_premier_7
-#EXTINF:-1 group-title="HUB PREMIER & HUB SPORTS",HUB PREMIER 8
-dummy://hub_premier_8
 
 ##### ===== ASTRO =====
 

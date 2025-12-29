@@ -809,6 +809,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> ARENA SPORT 🔸🔸🔸
 //========================================================================
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/a9/66/16/a96616c81d4cba4dd1e73c65a24ba77d.jpg" group-title="ARENA SPORT"
 
 #EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://i.pinimg.com/236x/a9/66/16/a96616c81d4cba4dd1e73c65a24ba77d.jpg",ARENASPORT 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
@@ -853,6 +854,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> CHAMPIONS TV 🔸🔸🔸
 //========================================================================
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_JgK6sF833VoC2rS74aDyGRswgzb9juEfQ&usqp=CAU" group-title="CHAMPIONS TV"
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFOCNVqGbw0yOQYrN639SsVd9enPWASNGBw&usqp=CAU" group-title="CHAMPIONS TV",Champions 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1623,7 +1625,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/ind
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> CANAL+LIVE 🔸🔸🔸
 //========================================================================
-         
+
+#EXTINF:-1 group-logo="https://iili.io/FkbwkX4.md.jpg" group-title="CANAL+ LIVE"
 
 #EXTINF:-1 group-title="CANAL+ LIVE" tvg-logo="https://iili.io/FkbwkX4.md.jpg",CANAL LIVE 1
 http://viphfppss.top:8080/SVIP0187174498268841/91744982688075/128997
@@ -2405,6 +2408,7 @@ https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> FIFA+ 🔸🔸🔸
 //========================================================================
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="FIFA+"
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ French (720p)

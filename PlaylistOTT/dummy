@@ -1,7 +1,7 @@
 #EXTM3U
 
 ##### ===== LIGA INGGRIS =====
-
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="LIGA INGGRIS"
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="LIGA INGGRIS",ASTRO PREMIER LEAGUE
 dummy://astro_pl
 
@@ -10,6 +10,7 @@ dummy://astro_pl2
 
 
 ##### ===== ASTRO =====
+#EXTINF:-1 group-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO"
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="ASTRO",ASTRO PREMIER LEAGUE
 dummy://astro_pl

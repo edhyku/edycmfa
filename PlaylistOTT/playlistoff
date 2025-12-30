@@ -14,34 +14,48 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 
 //========================================================================
-🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> SEDANG LIVE 🔸🔸🔸
+🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> LIVE EVENT 🔸🔸🔸
 //========================================================================
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/live-event.jpg
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/live-event.jpg" group-title="LIVE EVENT"
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/95411bbd63218578683e8505d93506de.png" group-title="SEDANG LIVE",Persika Karanganyar vs Persibo Bojonegoro - Indo D4 (19:00 WIB - 30/12/2025)
-#EXTVLCOPT:http-referrer=https://www.camel1.live/
-#EXTVLCOPT:http-origin=https://www.camel1.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvYqo24DiAo4z3CqM.m3u8?txSecret=67a9708425f8e4ab0516792270359907&txTime=6953C6AB&lat=9000
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/e02bafe2eecacc9e23c435c0160efa51.png" group-title="SEDANG LIVE",Al Safa SC vs Shabab Al Sahel SC - Lebanese Premier League (19:15 WIB - 30/12/2025)
-#EXTVLCOPT:http-referrer=https://www.camel1.live/
-#EXTVLCOPT:http-origin=https://www.camel1.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvXr9joZ1jFSuPenB.m3u8?txSecret=43bcb808f39dfefe8dc834e6899384a7&txTime=6953C6AB&lat=9000
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/e02bafe2eecacc9e23c435c0160efa51.png" group-title="SEDANG LIVE",Al Ansar SC vs Bourj SC - Lebanese Premier League (19:15 WIB - 30/12/2025)
-#EXTVLCOPT:http-referrer=https://www.camel1.live/
-#EXTVLCOPT:http-origin=https://www.camel1.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvXr9joYXA18fejnX.m3u8?txSecret=1a94548750cf7ac4c233fac2b3e10cea&txTime=6953C6AB&lat=9000
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="SEDANG LIVE",Al-Arabi SC(KSA) vs Al Wehda - Saudi First Division League (19:25 WIB - 30/12/2025)
-#EXTVLCOPT:http-referrer=https://www.camel1.live/
-#EXTVLCOPT:http-origin=https://www.camel1.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://liveplay1.camel4.live/live/sd-6MvXbwGD6VxfdgRL9M.m3u8?txSecret=5b10997d3e0435ab9d710ca64b109b9e&txTime=6953C6AB&lat=9000
-
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_4407288_1767097342.webp" , 🔴 【KSA Division 1】Al-Arabi(KSA) VS Al Wehda Mecca (19:28 WIB)
+https://play.live8818.com/nami/sd-6MvXbwGD6VxfdgRf6b.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3893155_1767095901.webp" , 🔴 【China NBL】Jiangxi Ganchi VS Anhui Wenyi (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiaJXN1WKoG8tdgX.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880529_1767093797.webp" , 🔴 【CBA】Ningbo Dingwo VS Sichuan FengguJiuye (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYCn7rVKYj8YB.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_4470851_1767097408.webp" , 🔴 【Indo D4】PSGC Ciamis VS Pekanbaru FC (19:28 WIB)
+https://play.live8818.com/nami/sd-6MvYqo24DfyKCWDcdh.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880548_1767096563.webp" , 🔴 【CBA】Xinjiang Yilite VS Guangzhou Langtai Haiben (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYBmx1tM7bQ5y.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3888898_1767094102.webp" , 🔴 【WCBA】Fujian Xiamen Egrets Women VS Henan Jiyuan Women (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiqJeMNMYLpc2SX5.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_4470889_1767097643.webp" , 🔴 【ESL】Soloda Adwa VS Debre Birhan Ketema (19:28 WIB)
+https://play.live8818.com/nami/sd-6MvYqo23iGNRpD8Tby.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_4432757_1767096743.webp" , 🔴 【LBN Premier League】Al Safa SC VS Shabab Al Sahel SC (19:28 WIB)
+https://play.live8818.com/nami/sd-6MvXr9joZ1jFSuPyjR.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3888926_1767094102.webp" , 🔴 【WCBA】Hefei Culture and Tourism Women's VS Jiangxi Ganxing Women's (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiqJf837unXxHd6j.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3893044_1767097103.webp" , 🔴 【KBSL】OGM Ormanspor Women VS Besiktas JK Women (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiaJWdMizjHowVcX.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3893157_1767094102.webp" , 🔴 【China NBL】Hefei Kuangfeng VS Hong Kong Bulls (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiaJXN1aim16YTzK.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880537_1767093499.webp" , 🔴 【CBA】Beijing Beiqi VS Zhejiang Fangxingdu (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYCcwxChSoMRD.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_4470850_1767097259.webp" , 🔴 【Indo D4】Persika Karanganyar VS Persibo Bojonegoro (19:28 WIB)
+https://play.live8818.com/nami/sd-6MvYqo24DiAo4z3Xnb.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880534_1767094340.webp" , 🔴 【CBA】Shandong Hi-Speed VS Shanxi Fenjiu (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYCcukipxySGK.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880532_1767093633.webp" , 🔴 【CBA】Jiangsu Kendiya VS Qingdao Guoxin Pharmaceutical (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYCcqMm61KbxX.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3890235_1767097342.webp" , 🔴 【ZBL】Brandys nad Labem Women VS Sokol Hradec Kralove Women (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiaUK757fkxwXc1q.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880546_1767094341.webp" , 🔴 【CBA】Zhejiang Chouzhou Jinzu VS Nanjing Toupaisujiu (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYBnUncXqAEEX.m3u8
+#EXTINF:-1 tvg-group="LIVE EVENT" group-title="LIVE EVENT" tvg-logo="https://stream.skorkilat6.com/custom/cdn_upload/match_3880530_1767093738.webp" , 🔴 【CBA】Fujian Jinjiang Cultural Tourism VS Jiutai Rural Commercial Bank (19:28 WIB)
+https://play.live8818.com/nami/sd-6wWiprYCckxoM3fmej.m3u8
 
 
 

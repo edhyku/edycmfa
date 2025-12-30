@@ -251,6 +251,22 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148159
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="LIGA INGGRIS",HUB PREMIER 3
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhX3oUI.png" tvg-logo=_https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="LIGA INGGRIS",HUB PREMIER 4
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="LIGA INGGRIS",HUB PREMIER 5
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" tvg-logo= group-title="LIGA INGGRIS",HUB PREMIER 6
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="LIGA INGGRIS",HUB PREMIER 7
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="LIGA INGGRIS",HUB PREMIER 8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f

@@ -160,6 +160,14 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="BRI Super League",channel 2
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SQ4mDwjFbsOAE8NSkmupxQgwNlc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4797276/41277f.jpg" group-title="BRI Super League", Arema FC vs PERSITA - BRI Super League at 14:59 wib 30/12/25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://xn--ghq248g.streamized.net/licence/v2/widevine/205/Pollygon.do?hdntl=acl~enc_S5JlyJws6_1-JfXLzftQ8xEjy802U17GSx8xyDbS2CW1Wf_8xBR1mgE2bpIAWS5ZazKmhodl-ODt4pR3Bj7Nfr0pWzwS-FfvBTBo1PeOydrAoBnIZECtAWbirTBTE7pSuJ9MYaqy5foNwppYeYYVNoDRRerNUBY6p3aEgDBLsVdSxXZkbpeuR6zXZ7n4tb9yBgUmb2Z9eG1jkJZgmT1sGfaGTl1fiujPbX3Vrd7xF4_V9HDjCZjbTzxw_aPAwertPJH1cQqYJfyWcX7XetjWTU9oX5B4bPGjS07nNx7uSV8HIn1xBKbUggm1qtETefSVhjo4lL3o-Mk-zBSIYt9ZKQ_enc~data~hdntl~exp~1767169321~signer~streamosessionmanager~type~DiamondUser~uid~gray~hmac~2aa56093b75f6266eb8123fba2a54dc51a9eefe773638e147d328cc11d80d741
+https://tokenized-ottbridge-prod.streamized.net/stream/v2/event/205.mpd?hdntl=acl~enc_C_7DkOwv-5cDcXmDctAXJ7BytF9VyiLVlCaQ9W4bDUA2cFSvWeIQD0xtCXe7WJKGtk-4Z5IW9bz3z2KTstSiyzgEpu87-trFt1z60NqXq2ZoC-ATnFoy67rW_9v4CdOZUF8xViAUWRKxKtOqzwWOsERGgHNdpeKx9a3IT_ToPiSFnctkFWr1A5MUPQvdvYkg0hlcdsVQa-yL0xgCsAbyPfCAmVpYytvBRCpXpslVSVgU2aUJ85qt8LZ9bpF5E0dnOH6JpPhW72dma_gCVMC_DDuK1q7PYCgmMlj46ASNn9k-wjy2cXjopIbVnyYwWYX83uVbjqA5Avx3s1pdTCueqQ_enc~data~hdntl~exp~1767169321~signer~streamosessionmanager~type~DiamondUser~uid~gray~hmac~9a25b402a14ba7a141433e946e9e5346a6ad62e18449a4d709c1df45c927c2ee
+
 //========================================================================
 🔸🔸🔸 Collected by https://t.me/IPTVgratisupdate menampilkan playlist >>> LIGA INGGRIS 🔸🔸🔸
 //========================================================================

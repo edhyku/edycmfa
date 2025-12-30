@@ -138,9 +138,9 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/edhyku/edycmfa/refs/heads/main/PlaylistOTT/Logo%20Super%20League.png" group-title="AFRICA CUP OF NATIONS"
 
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LLUE9FEUqPbP6_uTisj-78-liWI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4797279/6c7963.jpg" group-title="JADWAL NON AKUN", 🔴 22:48 wib 30/12/25 Tanzania vs Tunisia - TotalEnergies Africa Cup of Nations
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -148,7 +148,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6317&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4WKnKUTKH60oBD20wR-IBcp6ag0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4797280/254b4c.jpg" group-title="JADWAL NON AKUN", 🔴 22:48 wib 30/12/25 Uganda vs Nigeria - TotalEnergies Africa Cup of Nations
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -156,7 +156,7 @@ https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6299&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GxBoedCF9QJJgLWeg0cz4q3aDVQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802051/94752d.jpg" group-title="JADWAL NON AKUN", 🔴 01:48 wib 31/12/25 Botswana vs DR Congo - TotalEnergies Africa Cup of Nations
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -164,14 +164,13 @@ https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6317&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/r_nLBqeTAttJOKijFTUyzvhuHNU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4802034/79300e.jpg" group-title="JADWAL NON AKUN", 🔴 01:48 wib 31/12/25 Benin vs Senegal - TotalEnergies Africa Cup of Nations
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/2025_Africa_Cup_of_Nations_logo.png" group-title="AFRICA CUP OF NATIONS",CHANNEL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/vidio/main.php/widevine.mpd?id=6299&type=drm
 https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=6299&type=dash
-
 
 
 

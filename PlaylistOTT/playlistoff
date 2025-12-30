@@ -7,8 +7,10 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     GUNAKAN DENGAN BIJAK     ////////////////////////////////
 
 
-
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-racing-uk.png" group-title="00 JOIN KE TELE UNTUK PLAYLIST GRATISNYA",IPTV GRATIS
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/png/sky-sports-racing-uk.png" group-title="00 JOIN KE TELE UNTUK PLAYLIST GRATISNYA",IPTV GRATIS 1
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 
 //========================================================================

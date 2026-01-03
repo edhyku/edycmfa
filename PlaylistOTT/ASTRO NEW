@@ -86,5 +86,5 @@ https://manamedian.serv00.net/vidio/main.php/manifest.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95829a55b4b9fb4cef12069f92d7c233:9924312e846e312eb20c130c67d14eee
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/6786/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1766069422~acl=%2fstream%2f6786%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=197138242~data=hdntl~hmac=47ea975921a0f13df1a984188ad26f7811ec2b4b593c2beef77d88a0f2cce977
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/6786/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1766069422~acl=%2fstream%2f6786%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f6786%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=197138242~data=hdntl~hmac=47ea975921a0f13df1a984188ad26f7811ec2b4b593c2beef77d88a0f2cce977
 

@@ -121,7 +121,9 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19988/file/drm/dash/
 #EXT-X-MEDIA-SEQUENCE:113
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
+#EXTINF:-1 group-title="LIVE BOLA" tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/bSWPFlK-aGzCQo3pdELd6iIyhEE=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/34895/madura-united-fc-vs-persebaya-surabaya-462b61.jpg",TES 78 CHANNEL
 #EXTINF:10.000000,
+http://103.215.229.58:80/hls/eMWeM6Ny-05HbJTLMMuTxzfl1t0zjAUn19ZyRJ_56eg7antt6TFcAUgGxLvu7ot4G2q9h8jbGHsyiXq-64ap1YsyJGQgQHKP5srzMtyKMR0ga_F9MZsaGGFmH7aY8N1y&id=78&ext=.ts
 ?ts=http%3A%2F%2F103.215.229.58%3A80%2Fhls%2FeMWeM6Ny-05HbJTLMMuTxzfl1t0zjAUn19ZyRJ_56eg7antt6TFcAUgGxLvu7ot4G2q9h8jbGHsyiXq-64ap1YsyJGQgQHKP5srzMtyKMR0ga_F9MZsaGGFmH7aY8N1y&id=78&ext=.ts
 #EXTINF:10.000000,
 ?ts=http%3A%2F%2F103.215.229.58%3A80%2Fhls%2FeMWeM6Ny-05HbJTLMMuTxzfl1t0zjAUn19ZyRJ_56ehcCXPuNh9rdI-rWVZU7NHRQ0wQHmKwEvgOqsE2AuYEk7_lBpuXkz6Vr3aO39l8TO2gtVxizl5DZYFOM0W4teoq&id=78&ext=.ts

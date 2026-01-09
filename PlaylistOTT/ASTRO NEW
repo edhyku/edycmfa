@@ -32,7 +32,7 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
 https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF ",BWF 1
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF",BWF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -40,21 +40,21 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=9182&type=dash
 https://nissa17.adptv.workers.dev/manifest.mpd?id=18249&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF ",BWF 2
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF",BWF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=18250&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=18250&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF ", BWF 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF", BWF 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=18251&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=18251&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF ", BWF 4
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF", BWF 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -63,7 +63,7 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=18248&type=dash
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF ",next punya
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/pwYcmymNIlARCWgBZqDSNa_d6hY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="PRO LIGA & BWF",next punya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://vidx.pidiodotkom1.workers.dev/PunyaNetxtv.mpd?id=vidx5
 

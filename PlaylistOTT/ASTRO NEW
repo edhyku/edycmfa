@@ -74,7 +74,13 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=20240&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=20241&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=20241&type=dash
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcA67Mwx4kMtz6QRe2c7GJ7x3NFZENTB2G18dREdg&s=10" group-title="LIVE | EVENT (SERVER 2)",PROLIGA BOLAVOLY 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
 
 
 

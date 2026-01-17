@@ -67,7 +67,12 @@ https://nissa17.adptv.workers.dev/manifest.mpd?id=18251&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=20240&type=drm
 https://nissa17.adptv.workers.dev/manifest.mpd?id=20240&type=dash
 
-
+#EXTINF:-1 tvg-id="20240" tvg-name="Proliga 2026 - SVR2" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="PROLIGA 2026",🏐 PROLIGA 2026 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nissa17.adptv.workers.dev/widevine.mpd?id=20241&type=drm
+https://nissa17.adptv.workers.dev/manifest.mpd?id=20241&type=dash
 
 
 

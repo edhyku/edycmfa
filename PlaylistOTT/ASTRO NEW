@@ -84,6 +84,60 @@ https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
 
 
 
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcA67Mw-x4KMIZ6QRc2c7Gj7-X3NFZEN1B2G18dREdg&s=10",PROLIGA BOLAVOLY 2026 | Server 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=20240&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/UNYrDyCogCAFMZh5Z2qDRYFg3Rc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848808/150f7a.jpg",PERSIS vs BORNEO FC | BRI Super League (15:00 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/BW8mvUrrIORgy-QpkziwnRkJRTU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848805/485020.jpg",PERSIKAD vs FC BEKASI CITY | Pegadaian Championship (15:22 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/LOuAmWC3QOlArQXpOO4yi3JkrXE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848809/0a0a5b.jpg",PERSIJA vs MADURA UNITED | BRI Super League (18:30 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19354&type=dash
+
+
+#EXTINF:-1 group-title="_LIVE | EVENT (sᴇʀᴠᴇʀ²)" tvg-logo="https://thumbor.prod.vidiocdn.com/dLhUjAgkWmaPeiwANrSynDuavOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4848806/eb489d.jpg",PSPS PEKANBARU vs ADHYAKSA FC | Pegadaian Championship (18:52 • 23/01/26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=drm
+https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=19541&type=dash
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAUVGjddwFCU6rN-O1fnkVyO4YBNpT1EqMUZRLmKVE1hFoNE3Q94eHClPi6VkjkcRf1C0aiLL9fB1GvX3bETqy3XUgGu5bQp4OT2T5gnmWnOJQxTb5aVvmpy-pfsz9Z7i-O1DJkjz7fT4v7oTd4glqEk1gWc9kuBxFEqc3oriV-wSVMFJAaFUNUsPR2CO9/s700/SPORTSTARS%201.png" group-title="VISION+",SPORTSTARS            https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey

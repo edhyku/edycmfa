@@ -7,7 +7,40 @@
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=9182&type=drm
 https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=9182&type=dash
 
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2023-02/unifisports-new.png", group-title="UNIFI", Unifi Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2022-08/logo-SPOTV.png", group-title="UNIFI", SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2022-08/logo-SPOTV2.png", group-title="UNIFI", SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spoTV2)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2024-09/bein-sports1.png",group-title="UNIFI", beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2023-05/bein-sports2.png",group-title="UNIFI", beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein2)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2022-08/beIN-SPORTS3.png",group-title="UNIFI", beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/tv/sites/default/files/2023-01/beinsports4.png",group-title="UNIFI", beIN Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/master.mpd
 
 
 

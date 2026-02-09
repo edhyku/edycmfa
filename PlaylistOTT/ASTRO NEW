@@ -44,6 +44,9 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein4)/mast
 
 
 
+#EXTINF:-1 group-title="SPORT",Eurosport
+http://87.246.54.249:8080/Eurosport/tracks-v1a1/mono.m3u8
+
 
 
 

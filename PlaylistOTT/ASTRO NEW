@@ -7,6 +7,15 @@
 #KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=9182&type=drm
 https://aylin-ratu77.mediaflow.workers.dev/index.mpd?id=9182&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RuqWCgL63rBGFY1HYjON6rv92Mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4903516/77a6e5.jpg" group-title="Cobacoba", 20:00 WIB 22/02/26 Putri: Jakarta Livin Mandiri vs Bandung BJB Tandamata - Proliga (ALT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/Kabel/playlist.m3u/license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJrZXkiOiJHdjlrbno4SFc5WGlBcDdGa2t6MmVLOUcrcE8wTFhFaklpT3NTdFdEbzhDa0pxRnNHTzc5WVwvSjN2Y1wvdnBnUlhibjJEbldLOFhXUVdVXC9IeVppRkh4QUJIZEFmbmxzVTB6WVwvZ1dNM3hyZVp2Ym1XbmFIK1lKcFJ1S1F3SkJiVDl1WFkzcGZ2cnJkSnd4bG9pWVIyajREWms1RzkwRHNiQ09yaFl4TG9xVXVRPSJ9
+https://manamedian.serv00.net/Kabel/playlist.m3u/play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN_ADA_TOKEN_WKWKWK_MODAL_LAIN_KALI_YA_MODAL_SNIFFING_TERUS_GAK_MAJU_PENGETAHUANMU&ch=eyJwYXlsb2FkIjoidHkyMHNGMkZreFFvSEM5ajFPb3VRRkI2V2o4amNTN0Y1SE1ZXC8rMkY0cVJ3TFZ1eDV0UkQzWUJGQTVLaEpOU3RjajhaZDFNd2w5emhqQ0tcL0lTQVVvbnArY0xpOTE0VTdiUmIxQzNzQlhYSWM4SUVQMjFSQTBsd2k2T3VLS1VMc2ZYNVlZTjhIUERKRlhFSWp1XC9nQXIrNWFmMmdcLytHQzZUWjBXSjE5NkZDbFdReXlnb3dwcVJ2UTlsSDhJQkJqU1FYVWREbThFOElVZGg1T2EwOTV3b3g5b2U3TlwveFREWGY1NzV4SGwzcXpINzIxQ2VYa0k3M25lSjdmREhrYXhaIn0=
+
+
 
 #EXTINF:-1 group-title="Cobacoba" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi4UmZ8SPoiLvTAAexLRXCO12r_n9ajAmS5fNCTeNdp2YSL6dMBEwT1nvp1JCxruDzsHqxjFujd_IZDKe6XedF7SDnzRiHqLGF216iRV5CrIzeq1B2VJki118wBxqBYjvdnHUZF4qML1zuNOmQnlEl5acYNqkHKGBf_BcSPoIVVUW_v2gH6D1vGxh_v_pT/s700/VOLI%20TV.png",VOLI TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 ExoPlayerLib/2.19.1

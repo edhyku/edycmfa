@@ -19,6 +19,19 @@ https://manamedian.serv00.net/Kabel/playlist.m3u/play.mpd?BACA_INI=KAMU_MAU_NGAP
 
 
 
+#EXTINF:-1 group-title="VIDIO"  tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png", Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/file/primary/aac/aac-1772477445_15719621632.m4s?hdntl=exp=1772848294~acl=/stream/8237/res=720p/file/stream.mpd!/stream/8237/file/*/aac/*!/stream/8237/file/*/*-720p/*!/stream/8237/file/*/*-480p/*!/stream/8237/file/*/*-360p/*~id=195776402~data=hdntl~hmac=76bc87e143d2584bcd70fd3563b317be34912dc7f1be25fd48864701bcd46336
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="SPORTS", Champions Golf 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

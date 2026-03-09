@@ -6,8 +6,8 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kenduvididi.ahmadadityaberdikari.workers.dev/205.drm
-https://kenduvididi.ahmadadityaberdikari.workers.dev/205.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://generatorvididi.ahmadadityaberdikari.workers.dev/205.drm
+https://generatorvididi.ahmadadityaberdikari.workers.dev/205.mpd
 
 #EXTINF:-1 tvg-uid="8586d7c88d4009b62efe093dc0e75831" group-title="VIDIDI",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -15,8 +15,8 @@ https://kenduvididi.ahmadadityaberdikari.workers.dev/205.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kenduvididi.ahmadadityaberdikari.workers.dev/206.drm
-https://kenduvididi.ahmadadityaberdikari.workers.dev/206.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://generatorvididi.ahmadadityaberdikari.workers.dev/206.drm
+https://generatorvididi.ahmadadityaberdikari.workers.dev/206.mpd
 
 #EXTINF:-1 tvg-uid="8586d7c88d4009b62efe093dc0e75831" group-title="VIDIDI",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -24,5 +24,5 @@ https://kenduvididi.ahmadadityaberdikari.workers.dev/206.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kenduvididi.ahmadadityaberdikari.workers.dev/204.drm
-https://kenduvididi.ahmadadityaberdikari.workers.dev/204.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://generatorvididi.ahmadadityaberdikari.workers.dev/204.drm
+https://generatorvididi.ahmadadityaberdikari.workers.dev/204.mpd
